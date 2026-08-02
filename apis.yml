@@ -1,8 +1,28 @@
 aid: waltz-health
-name: Waltz Health *
-description: 'Waltz Health * is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting the enrichment
-  pipeline.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/waltz-health.png
+name: Waltz Health
+description: 'Waltz Health is a Chicago-based digital health company founded in 2021 by Mark Thierer
+  (former CEO of OptumRx and Catamaran) and Jonathon Thierer, building AI-driven prescription drug
+  pricing marketplaces that help consumers, payers, pharmacy benefit managers, pharmacies, and
+  self-insured employers make better-informed, lower-cost decisions on prescription care. Its
+  Marketplace Search product is a multi-card search engine that compares medication prices across
+  every major discount and savings program, and Waltz Connect is an end-to-end solution that lowers
+  the cost of specialty medications through a network of national and regional specialty pharmacies
+  that compete on price and clinical outcomes. The company raised a $35M Series A led by GV and, in
+  August 2025, merged with EVERSANA to form a combined pharmaceutical commercialization and drug-access
+  platform, with Mark Thierer appointed CEO of EVERSANA. Waltz Health has no public developer API
+  program; this profile captures company identity and live domain-security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/waltz-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Life Sciences
+- Healthcare
+- Pharmacy
+- Drug Pricing
+- Prescriptions
+- Health Tech
+- Pharmacy Benefits
+- Marketplace
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +51,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://waltzhealth.com
+  url: https://waltzhealth.com
+- type: Solutions
+  url: https://waltzhealth.com/our-solutions
+- type: News
+  url: https://waltzhealth.com/press-release
+- type: LinkedIn
+  url: https://www.linkedin.com/company/waltz-health
+- type: Careers
+  url: https://job-boards.greenhouse.io/waltzhealth
+- type: DomainSecurity
+  url: security/waltz-health-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
