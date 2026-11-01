@@ -1,4 +1,4 @@
-# Waltz Health *
+# Waltz Health
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Waltz Health * is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: life-sciences. This profile is a lead awaiting the enrichment pipeline.
+Waltz Health is a Chicago-based digital health company founded in 2021 by Mark Thierer (former CEO of OptumRx and Catamaran) and Jonathon Thierer, building AI-driven prescription drug pricing marketplaces that help consumers, payers, pharmacy benefit managers, pharmacies, and self-insured employers make better-informed, lower-cost decisions on prescription care. Its Marketplace Search product is a multi-card search engine that compares medication prices across every major discount and savings program, and Waltz Connect is an end-to-end solution that lowers the cost of specialty medications through a network of national and regional specialty pharmacies that compete on price and clinical outcomes. The company raised a $35M Series A led by GV and, in August 2025, merged with EVERSANA to form a combined pharmaceutical commercialization and drug-access platform, with Mark Thierer appointed CEO of EVERSANA. Waltz Health has no public developer API program; this profile captures company identity and live domain-security posture.
 
-Backed by: gv — http://waltzhealth.com
+**Areas:** Company · Life Sciences · Healthcare · Pharmacy · Drug Pricing · Prescriptions · Health Tech · Pharmacy Benefits · Marketplace
+
+## Waltz Health on APIs.io
+
+Everything profiled for Waltz Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/waltz-health/](https://apis.io/providers/waltz-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Waltz Health Domain Security](https://apis.io/security/waltz-health/waltz-health-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://waltzhealth.com)
+- [Blog](https://waltzhealth.com/newsroom)
+
+## API Evangelist rating
+
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/waltz-health/](https://apis.io/providers/waltz-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Waltz Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/waltz-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
